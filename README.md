@@ -21,3 +21,11 @@ DISCLAIMER:
 I will use VSCode for Angular and IntelliJ for the API Server
 
 I have no idea what version of those things is used in the course, I'll just use the newest versions currently available.
+
+## What is the app
+
+We'll keep it simple and small: A notes app
+- Note consisting of header and text, and optionally a deadline
+- Notebooks, grouping multiple notes together
+- Tags, to search notes
+- Maybe: users with passwords
