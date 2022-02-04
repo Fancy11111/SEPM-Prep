@@ -11,7 +11,7 @@ DISCLAIMER:
 
 ## Project setup
 
-- **Database:** H2
+- **Database:** [H2](https://h2database.com/html/main.html)
 - **API Server:** [Java](https://openjdk.java.net/)
   - **Database Connectivity:** [Hibernate](http://hibernate.org/orm/)
   - **Server Framework:** [Spring Boot](https://spring.io/projects/spring-boot)
@@ -21,6 +21,22 @@ DISCLAIMER:
 I will use VSCode for Angular and IntelliJ for the API Server
 
 I have no idea what version of those things is used in the course, I'll just use the newest versions currently available.
+
+## Requirements
+
+### Frontend
+
+- [node](https://nodejs.org/en/) and npm (which, in most cases, is a bundle install)
+- [ng-cli](https://angular.io/cli)
+
+### API Server
+
+- [IntelliJ](https://www.jetbrains.com/idea/) (not really required, but recommended as the complete project structure is generated and managed by IntelliJ)
+- [Gradle](https://gradle.org/)
+
+### DB
+
+- [H2](https://h2database.com/html/main.html)
 
 ## What is the app
 
