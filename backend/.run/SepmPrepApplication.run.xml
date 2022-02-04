@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SepmPrepApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="sepm_prep.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.fancy.sepm_prep.SepmPrepApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+    <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
